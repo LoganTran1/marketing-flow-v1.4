@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 // Get the repository name from package.json or use a default
-const base = '/marketing-flow-v1.3/';
+const base = '/marketing-flow-v1.5/';
 
 export default defineConfig({
   plugins: [react()],

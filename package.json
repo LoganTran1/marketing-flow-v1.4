@@ -1,8 +1,8 @@
 {
   "name": "marketing-flow",
-  "version": "1.3.1",
+  "version": "1.5.0",
   "private": true,
-  "homepage": "https://logantran1.github.io/marketing-flow-v1.3",
+  "homepage": "https://logantran1.github.io/marketing-flow-v1.5",
   "dependencies": {
     "@types/node": "^18.0.0",
     "@types/react": "^18.2.0",
